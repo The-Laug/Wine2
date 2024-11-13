@@ -1,0 +1,145 @@
+		1000	0.5612364	4.0992443e-05
+		2000	0.55344594	4.3078744e-06
+		Final loss:
+		2949	0.55221796	9.714304e-07
+
+	Replicate: 3/3
+		Iter	Loss			Rel. loss
+		1000	0.5642098	6.274782e-05
+		2000	0.5538943	5.3804783e-06
+		3000	0.55234903	1.4028436e-06
+		Final loss:
+		3000	0.55234903	1.4028436e-06
+Number of hidden units:  6
+
+	Replicate: 1/3
+		Iter	Loss			Rel. loss
+		1000	0.55964917	3.4186483e-05
+		2000	0.5531384	3.4482186e-06
+		Final loss:
+		2812	0.55218035	9.714965e-07
+
+	Replicate: 2/3
+		Iter	Loss			Rel. loss
+		1000	0.56093377	4.282082e-05
+		2000	0.55325884	3.9861325e-06
+		Final loss:
+		2914	0.55213726	9.715724e-07
+
+	Replicate: 3/3
+		Iter	Loss			Rel. loss
+		1000	0.5578513	2.8099927e-05
+		2000	0.5526415	2.5884913e-06
+		Final loss:
+		2524	0.5521192	9.716041e-07
+Number of hidden units:  7
+
+	Replicate: 1/3
+		Iter	Loss			Rel. loss
+		1000	0.5612643	5.4582335e-05
+		2000	0.55283993	3.2344508e-06
+		Final loss:
+		2660	0.5520869	9.716609e-07
+
+	Replicate: 2/3
+		Iter	Loss			Rel. loss
+		1000	0.56083983	3.4645258e-05
+		2000	0.55334234	4.200964e-06
+		Final loss:
+		2908	0.5521853	9.714878e-07
+
+	Replicate: 3/3
+		Iter	Loss			Rel. loss
+		1000	0.5601495	4.628554e-05
+		2000	0.55281126	3.1267982e-06
+		Final loss:
+		2670	0.5520928	9.716506e-07
+Number of hidden units:  8
+
+	Replicate: 1/3
+		Iter	Loss			Rel. loss
+		1000	0.5565951	2.280922e-05
+		2000	0.5523764	1.9423017e-06
+		Final loss:
+		2308	0.55210584	9.716276e-07
+
+	Replicate: 2/3
+		Iter	Loss			Rel. loss
+		1000	0.5564309	2.003096e-05
+		2000	0.55250734	2.2654806e-06
+		Final loss:
+		2469	0.5520901	9.716553e-07
+
+	Replicate: 3/3
+		Iter	Loss			Rel. loss
+		1000	0.55615103	2.2291588e-05
+		2000	0.5523484	2.050311e-06
+		Final loss:
+		2326	0.55207664	9.71679e-07
+Number of hidden units:  9
+
+	Replicate: 1/3
+		Iter	Loss			Rel. loss
+		1000	0.5575533	2.608388e-05
+		2000	0.55266595	2.6962257e-06
+		Final loss:
+		2566	0.55211085	9.716188e-07
+
+	Replicate: 2/3
+		Iter	Loss			Rel. loss
+		1000	0.5563664	1.9819028e-05
+		2000	0.55249524	2.1576482e-06
+		Final loss:
+		2427	0.5521108	9.716189e-07
+
+	Replicate: 3/3
+		Iter	Loss			Rel. loss
+		1000	0.5564147	1.9817306e-05
+		2000	0.5525074	2.2654804e-06
+		Final loss:
+		2392	0.55214524	9.715583e-07
+
+	Replicate: 1/3
+		Iter	Loss			Rel. loss
+		1000	0.8425059	0.000106321226
+		2000	0.8016846	2.7805843e-05
+		3000	0.78234965	2.079854e-05
+		Final loss:
+		3000	0.78234965	2.079854e-05
+
+	Replicate: 2/3
+		Iter	Loss			Rel. loss
+		1000	0.8893638	5.8705562e-05
+		2000	0.8600003	2.2732409e-05
+		3000	0.79680413	0.00016506658
+		Final loss:
+		3000	0.79680413	0.00016506658
+
+	Replicate: 3/3
+		Iter	Loss			Rel. loss
+		1000	0.8628562	0.0001368254
+		2000	0.7958196	4.5760084e-05
+		3000	0.721361	7.97297e-05
+		Final loss:
+		3000	0.721361	7.97297e-05
+Number of miss-classifications for ANN:
+	 4 out of 17
+Best hidden unit:  1
+final ANN error for k=10 is 0.23529411764705882
+the best lambda is:  1.0
+final logreg error for k=10 is 0.058823529411764705
+   Top class:  2.0   Test error:  0.588
+final_error_for_ANN:  [np.float64(0.05555555555555555), np.float64(0.0), np.float64(0.16666666666666666), np.float64(0.3888888888888889), np.float64(0.2222222222222222), np.float64(0.3333333333333333), np.float64(0.0), np.float64(0.3333333333333333), np.float64(0.35294117647058826), np.float64(0.23529411764705882)]
+best_hidden_units:  [1, 3, 1, 1, 1, 1, 3, 1, 1, 1]
+final_error_for_logreg:  [np.float64(0.05555555555555555), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.0), np.float64(0.05555555555555555), np.float64(0.0), np.float64(0.058823529411764705)]
+best_lambdas:  [np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0), np.float64(1.0)]
+final_error_for_baseline:  [[0.72222222]
+ [0.66666667]
+ [0.61111111]
+ [0.55555556]
+ [0.66666667]
+ [0.72222222]
+ [0.66666667]
+ [0.38888889]
+ [0.41176471]
+ [0.58823529]]
